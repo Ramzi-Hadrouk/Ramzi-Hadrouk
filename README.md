@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramzi Hadrouk</h1>
-<h5 align="center">Master's Degree in Data Engineering and Web Technologies</h5>
+<h2 align="center">Hi 👋, I'm  Ramzi Hadrouk </h2>
+<h3 align="center">Master's Degree in Data Engineering and Web Technologies</h3>
 
 
 #### 🌐 Socials:
