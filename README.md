@@ -4,8 +4,7 @@
  
 # 📌 Connect with Me  
 
-[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32&animation=shake&animationDuration=3&color=%233b82f6)](https://linkedin.com/in/ramzi-hadrouk-a85973277)  
-[![Email](https://readmecodegen.vercel.app/api/social-icon?name=envelope&size=32&animation=shake&animationDuration=3&color=%233b82f6)](mailto:hadrouk_ramzi_@hotmail.com)  
+[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=24&animation=shake&animationDuration=3&color=%233b82f6)](https://linkedin.com/in/ramzi-hadrouk-a85973277)  [![Email](https://readmecodegen.vercel.app/api/social-icon?name=envelope&size=24&animation=shake&animationDuration=3&color=%233b82f6)](mailto:hadrouk_ramzi_@hotmail.com)  
 
  
 ✨ Always happy to connect and collaborate!
