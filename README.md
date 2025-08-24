@@ -1,11 +1,14 @@
 <h2 align="center">Hi 👋, I'm  Ramzi Hadrouk </h2>
 <h3 align="center">Master's Degree in Data Engineering and Web Technologies</h3>
 
+ 
+# 📌 Connect with Me  
 
-#### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramzi-hadrouk-a85973277) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hadrouk_ramzi_@hotmail.com) 
-#### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzi-Hadrouk&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32&animation=shake&animationDuration=3&color=%233b82f6)](https://linkedin.com/in/ramzi-hadrouk-a85973277)  
+[![Email](https://readmecodegen.vercel.app/api/social-icon?name=envelope&size=32&animation=shake&animationDuration=3&color=%233b82f6)](mailto:hadrouk_ramzi_@hotmail.com)  
+
+ 
+✨ Always happy to connect and collaborate!
 
 #
 
