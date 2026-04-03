@@ -1,16 +1,42 @@
-<h2 align="center">Hi 👋, I'm  Ramzi Hadrouk </h2>
-<h3 align="center">Master's Degree in Data Engineering and Web Technologies</h3>
 
- 
-# 📌 Connect with Me  
+<h1 align="center">Hi 👋, I'm Ramzi Hadrouk</h1>
 
-[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=24&animation=shake&animationDuration=3&color=%233b82f6)](https://linkedin.com/in/ramzi-hadrouk-a85973277)  [![Email](https://readmecodegen.vercel.app/api/social-icon?name=envelope&size=24&animation=shake&animationDuration=3&color=%233b82f6)](mailto:hadrouk_ramzi_@hotmail.com)  
+<h3 align="center">
+Backend & Systems-Focused Engineer | Performance-Driven Builder
+</h3>
 
- 
-✨ Always happy to connect and collaborate!
+<p align="center">
+I design systems with a focus on <b>performance, scalability, and long-term maintainability</b>.<br/>
+I care about how systems behave under load, fail, and evolve — not just how they work.
+</p>
 
-#
+---
 
-<div align="center"> "Simplicity is the soul of efficiency." </div>
+##  About Me
+
+-  Master's Degree in **Data Engineering & Web Technologies**
+-  Focused on **backend architecture and system design**
+-  Interested in building **scalable, production-grade systems**
+-  Think in terms of **engineering trade-offs** (performance vs complexity, speed vs consistency)
+-  Comfortable working close to the system (processes, permissions, resource management)
+
+---
 
 
+##  Connect with Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/ramzi-hadrouk-a85973277">
+   LINKEDIN
+  </a>
+ <br>
+  <a href="mailto:hadrouk_ramzi_@hotmail.com">
+   EMAIL
+  </a>
+</p>
+
+---
+
+## ⚖️ Engineering Philosophy
+
+> Design for failure. Everything else is secondary.
