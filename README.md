@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ramzi Hadrouk</h1>
+<h1 align="center"> 👋, I'm Ramzi Hadrouk</h1>
 
 <h3 align="center">
 Backend & Systems-Focused Engineer | Performance-Driven Builder
